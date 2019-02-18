@@ -1,8 +1,8 @@
 #Python libraries that we need to import for our bot
 import random
 import os
-import nltk
-from nltk.tokenize import word_tokenize
+#import nltk
+#from nltk.tokenize import word_tokenize
 from flask import Flask, request
 from pymessenger.bot import Bot
 app = Flask(__name__)
@@ -34,7 +34,7 @@ def receive_message():
                     text_to_send = message['message']['text']
                     #resposta = tokenize_sentence(text)
                     response_sent_text = get_message(text_to_send)
-                    response_tokenized = tokenize_sentence(text_to_send)
+                    #response_tokenized = tokenize_sentence(text_to_send)
                     send_message(recipient_id, response_sent_text)
 
 
