@@ -36,8 +36,8 @@ stopword = set(stopwords.words('portuguese') + list(punctuation)) # o set não p
 
 #fitrar a sentenca
 def tokenize_sentence(text):
-    return word_tokenize(text.lower)
-
+    texto_tokenizado = word_tokenize(text.lower)
+    return texto_tokenizado
 
 
 

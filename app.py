@@ -35,12 +35,8 @@ def receive_message():
                     resposta = tokenize_sentence(text)
                     #response_sent_text = get_message()
                     #send_message(recipient_id, response_sent_text)
-                    send_message(recipient_id,resposta)
+                    send_message(recipient_id,text)
 
-                #if user sends us a GIF, photo,video, or any other non-text item
-                # if message['message'].get('attachments'):
-                #     response_sent_nontext = get_message()
-                #     send_message(recipient_id, response_sent_nontext)
     return "Message Processed"
 
 
