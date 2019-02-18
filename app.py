@@ -1,10 +1,10 @@
 #Python libraries that we need to import for our bot
 import random
 import os
-#import nltk
-#from nltk.tokenize import word_tokenize
 from flask import Flask, request
 from pymessenger.bot import Bot
+#import nltk
+#from nltk.tokenize import word_tokenize
 app = Flask(__name__)
 
 
@@ -32,10 +32,11 @@ def receive_message():
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
                     text_to_send = message['message']['text']
-                    #resposta = tokenize_sentence(text)
-                    response_sent_text = get_message(text_to_send)
-                    #response_tokenized = tokenize_sentence(text_to_send)
                     send_message(recipient_id, response_sent_text)
+                    #resposta = tokenize_sentence(text)
+                    #response_sent_text = get_message(text_to_send)
+                    #response_tokenized = tokenize_sentence(text_to_send)
+                    #send_message(recipient_id, response_sent_text)
 
 
     return "Message Processed"
@@ -50,12 +51,11 @@ def verify_fb_token(token_sent):
 
 
 #chooses a random message to send to the user
-def get_message(message_text):
-    #message_text = tokenize_sentence(message_text)
-    return message_text
+# def get_message(message_text):
+#     #message_text = tokenize_sentence(message_text)
+#     return message_text
     # return selected item to the user
     #return random.choice(sample_responses)
-
 
 def tokenize_sentence(text):
     texto_tokenizado = word_tokenize(text.lower)
