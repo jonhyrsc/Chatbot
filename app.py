@@ -34,7 +34,8 @@ def receive_message():
                     text_to_send = message['message']['text']
                     #resposta = tokenize_sentence(text)
                     response_sent_text = get_message(text_to_send)
-                    send_message(recipient_id, response_sent_text)
+                    response_tokenized = tokenize_sentence(text_to_send)
+                    send_message(recipient_id, response_tokenized)
 
 
     return "Message Processed"
@@ -55,10 +56,11 @@ def get_message(message_text):
     # return selected item to the user
     #return random.choice(sample_responses)
 
-#uses PyMessenger to send response to user
+
 def tokenize_sentence(text):
     texto_tokenizado = word_tokenize(text.lower)
     return texto_tokenizado
+
 
 def send_message(recipient_id, response):
     #sends user the text message provided via input response parameter
