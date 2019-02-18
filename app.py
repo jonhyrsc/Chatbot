@@ -35,7 +35,7 @@ def receive_message():
                     #resposta = tokenize_sentence(text)
                     response_sent_text = get_message()
                     send_message(recipient_id, response_sent_text)
-                    send_message(recipient_id,text)
+                    
 
     return "Message Processed"
 
