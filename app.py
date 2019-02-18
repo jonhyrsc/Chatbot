@@ -3,6 +3,7 @@ import random
 import os
 from flask import Flask, request
 from pymessenger.bot import Bot
+from nltk_model import tokenize_sentence
 app = Flask(__name__)
 
 
@@ -16,8 +17,6 @@ bot = Bot (ACCESS_TOKEN)
 @app.route("/", methods=['GET', 'POST'])
 def receive_message():
     if request.method == 'GET':
-        """Before allowing people to message your bot, Facebook has implemented a verify token
-        that confirms all requests that your bot receives came from Facebook."""
         token_sent = request.args.get("hub.verify_token")
         return verify_fb_token(token_sent)
     #if the request was not get, it must be POST and we can just proceed with sending a message back to user
@@ -31,11 +30,11 @@ def receive_message():
                 #Facebook Messenger ID for user so we know where to send response back to
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
-
+                    text_to_send = message['message']['text']
                     #resposta = tokenize_sentence(text)
-                    response_sent_text = get_message()
+                    response_sent_text = get_message(text_to_send)
                     send_message(recipient_id, response_sent_text)
-                    
+
 
     return "Message Processed"
 
@@ -49,11 +48,12 @@ def verify_fb_token(token_sent):
 
 
 #chooses a random message to send to the user
-def get_message():
+def get_message(message_text):
+
     sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!", "We're greatful to know you :)"]
     # return selected item to the user
-    return random.choice(sample_responses)
-
+    #return random.choice(sample_responses)
+    return message_text
 #uses PyMessenger to send response to user
 def send_message(recipient_id, response):
     #sends user the text message provided via input response parameter

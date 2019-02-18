@@ -43,6 +43,7 @@ def tokenize_sentence(text):
 
 
 
+
 filtered_sentence = []
 for w in palavras:
     if  w not in stopword:
