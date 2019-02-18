@@ -35,7 +35,7 @@ def receive_message():
                     #resposta = tokenize_sentence(text)
                     response_sent_text = get_message(text_to_send)
                     response_tokenized = tokenize_sentence(text_to_send)
-                    send_message(recipient_id, response_tokenized)
+                    send_message(recipient_id, response_sent_text)
 
 
     return "Message Processed"
@@ -51,7 +51,7 @@ def verify_fb_token(token_sent):
 
 #chooses a random message to send to the user
 def get_message(message_text):
-    message_text = tokenize_sentence(message_text)
+    #message_text = tokenize_sentence(message_text)
     return message_text
     # return selected item to the user
     #return random.choice(sample_responses)
