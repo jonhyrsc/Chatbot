@@ -3,7 +3,6 @@ import random
 import os
 from flask import Flask, request
 from pymessenger.bot import Bot
-from nltk_model import tokenize_sentence
 app = Flask(__name__)
 
 
@@ -55,6 +54,7 @@ def get_message(message_text):
     #return random.choice(sample_responses)
     return message_text
 #uses PyMessenger to send response to user
+
 def send_message(recipient_id, response):
     #sends user the text message provided via input response parameter
     bot.send_text_message(recipient_id, response)
