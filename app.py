@@ -4,7 +4,7 @@ import os
 from flask import Flask, request
 from pymessenger.bot import Bot
 app = Flask(__name__)
-from model import tokenize_sentence
+
 
 
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
