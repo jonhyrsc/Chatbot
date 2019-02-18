@@ -5,8 +5,7 @@ from flask import Flask, request
 from pymessenger.bot import Bot
 import os
 app = Flask(__name__)
-#ACESS_TOKEN#EAAG6yow1YZB0BAAYwhmtZAXDFaxIK3lXkP99m8unHDjzfhZB9jil3krZA9bSWMz10uOlidi4QAbuSZCo6YrB5I1PJPwp5aUVHhIO68kT8IeA7S51lP82EkrbzsVXE8d2uCgsjZCuX73B9wQZBYptZACt62xR3RcBbLDlAf8MFYNrqSEBXwFMmSKT
-#
+
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot (ACCESS_TOKEN)
@@ -15,6 +14,8 @@ bot = Bot (ACCESS_TOKEN)
 @app.route("/", methods=['GET', 'POST'])
 def receive_message():
     if request.method == 'GET':
+        """Before allowing people to message your bot, Facebook has implemented a verify token
+        that confirms all requests that your bot receives came from Facebook."""
         token_sent = request.args.get("hub.verify_token")
         return verify_fb_token(token_sent)
     #if the request was not get, it must be POST and we can just proceed with sending a message back to user
