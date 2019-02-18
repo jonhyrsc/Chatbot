@@ -11,7 +11,7 @@ ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot (ACCESS_TOKEN)
 
-text = "Olá, meu amigo João"
+
 #We will receive messages that Facebook sends our bot at this endpoint
 @app.route("/", methods=['GET', 'POST'])
 def receive_message():
@@ -36,7 +36,7 @@ def receive_message():
                     #response_sent_text = get_message()
                     #send_message(recipient_id, response_sent_text)
                     send_message(recipient_id,resposta)
-                    
+
                 #if user sends us a GIF, photo,video, or any other non-text item
                 # if message['message'].get('attachments'):
                 #     response_sent_nontext = get_message()
