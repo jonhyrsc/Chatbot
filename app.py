@@ -4,6 +4,8 @@ import os
 from flask import Flask, request
 from pymessenger.bot import Bot
 app = Flask(__name__)
+from model import tokenize_sentence
+
 
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
@@ -29,12 +31,16 @@ def receive_message():
                 #Facebook Messenger ID for user so we know where to send response back to
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
-                    response_sent_text = get_message()
-                    send_message(recipient_id, response_sent_text)
+                    text = message['message'].get('text')
+                    resposta = tokenize_sentence(text)
+                    #response_sent_text = get_message()
+                    #send_message(recipient_id, response_sent_text)
+                    send_message(recipient_id,resposta)
+                    
                 #if user sends us a GIF, photo,video, or any other non-text item
-                if message['message'].get('attachments'):
-                    response_sent_nontext = get_message()
-                    send_message(recipient_id, response_sent_nontext)
+                # if message['message'].get('attachments'):
+                #     response_sent_nontext = get_message()
+                #     send_message(recipient_id, response_sent_nontext)
     return "Message Processed"
 
 
@@ -50,8 +56,7 @@ def verify_fb_token(token_sent):
 def get_message():
     sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!", "We're greatful to know you :)"]
     # return selected item to the user
-    return text
-    #return random.choice(sample_responses)
+    return random.choice(sample_responses)
 
 #uses PyMessenger to send response to user
 def send_message(recipient_id, response):
