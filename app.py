@@ -7,12 +7,12 @@ from pymessenger.bot import Bot
 #from nltk.tokenize import word_tokenize
 app = Flask(__name__)
 
-
-
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot (ACCESS_TOKEN)
 
+if __name__ == "__main__":
+    app.run()
 
 #We will receive messages that Facebook sends our bot at this endpoint
 @app.route("/", methods=['GET', 'POST'])
@@ -32,7 +32,7 @@ def receive_message():
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
                     text_to_send = message['message']['text']
-                    send_message(recipient_id, response_sent_text)
+                    send_message(recipient_id, text_to_send)
                     #resposta = tokenize_sentence(text)
                     #response_sent_text = get_message(text_to_send)
                     #response_tokenized = tokenize_sentence(text_to_send)
@@ -66,6 +66,3 @@ def send_message(recipient_id, response):
     #sends user the text message provided via input response parameter
     bot.send_text_message(recipient_id, response)
     return "success"
-
-if __name__ == "__main__":
-    app.run()
