@@ -7,7 +7,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 app = Flask(__name__)
 
-#nltk.download('punkt')
+nltk.download('punkt')
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot (ACCESS_TOKEN)
