@@ -33,9 +33,9 @@ def receive_message():
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
                     text_to_send = message['message']['text']
-                    text_tokenized = word_tokenize(text_to_send)
+                    text_tokenized = word_tokenize(str(text_to_send))
 
-                    send_message(recipient_id, text_to_send)
+                    send_message(recipient_id, text_tokenized)
                     #resposta = tokenize_sentence(text)
                     #response_sent_text = get_message(text_to_send)
                     #response_tokenized = tokenize_sentence(text_to_send)
