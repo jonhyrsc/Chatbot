@@ -38,11 +38,9 @@ def receive_message():
                     text_to_send = message['message']['text']
                     text_tokenized = word_tokenize(text_to_send)
                     for p in text_tokenized:
-                        send_message(recipient_id, p)
-                    #resposta = tokenize_sentence(text)
-                    #response_sent_text = get_message(text_to_send)
-                    #response_tokenized = tokenize_sentence(text_to_send)
-                    #send_message(recipient_id, response_sent_text)
+                        my_string = "-".join(text_tokenized)
+                    send_message(recipient_id, my_string)
+
     return "Message Processed"
 
 
