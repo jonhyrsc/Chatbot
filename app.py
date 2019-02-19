@@ -36,7 +36,7 @@ def receive_message():
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
                     text_to_send = message['message']['text']
-                    text_tokenized = word_tokenize(text_to_send)
+                    text_tokenized = word_tokenize(text_to_send.lower())
                     for p in text_tokenized:
                         my_string = "-".join(text_tokenized)
                     send_message(recipient_id, my_string)
