@@ -1,0 +1,38 @@
+{"intents": [
+        {"tag": "saudacao",
+         "patterns": ["ola", "oi", "boa tarde", "bom dia", "boas"],
+         "responses": ["Olá, em que te posso ajudar?", "Olá, qual o problema desta vez?", "Olá", "Oi"],
+         "context_set": ""
+        },
+        {"tag": "despedida",
+         "patterns": ["adeus", "tchau", "ate logo", "xau"],
+         "responses": ["Até logo!", "Tem um bom dia!", "Tchau! Não hesistes em voltar a perguntar alguma coisa!"]
+        },
+        {"tag": "agradecimento",
+         "patterns": ["obrigado", "obrigada", "isso e util"],
+         "responses": ["Fico feliz que pude ajudar!", "Na boa!", "De nada!"]
+        },
+        {"tag": "horas_serviço_social",
+         "patterns": ["que horas estao abertos os serviços sociais", "Quando abre os serviços sociais", "horario dos serviços sociais" ],
+         "responses": ["Os serviços sociais estão abertos 9h às 17h em horário contínuo! De segunda a sexta.", "Das 9h às 17, de seg. a sex.", "Das 9h às 17h, de segunda a sexta, em horário contínuo."]
+        },
+        {"tag": "serviço_social",
+         "patterns": ["o que sao os serviços sociais", "descreve os serviços sociais", "o que fazem os serviços sociais", "função dos serviços sociais" ],
+         "responses": ["Os serviços sociais são um serviço de apoio ao estudante, que tem por missão garantir o acesso e frequência de um curso do ensino superior.", "Bem, muito resumidamente, os serviços sociais são um serviço de apoio ao estudante. É lá que podes tratar de assuntos como bolsa de estudo, alojamento a baixo custo, entre outras..."," Os serviços sociais são um serviço de apoio para ti, o estudante.", " Garantir o acesso e frequência de um curso do ensino superior, ou seja, ajudar-te a nível financeiro"]
+        },
+        {"tag": "SS_aberto_hoje",
+         "patterns": ["os serviços sociais estao abertos hoje", "quando abrem os servicos sociais hoje", "horario de funcionamento dos servicos socias hoje"],
+         "responses": ["Estamos abertos de segunda a sexta, ", "Abrimos às 9h", "O horário de funcionamento durante a semana é das 9h às 17h."]
+        },
+        {"tag": "localizacao",
+         "patterns": ["onde sao os serviços sociais", "mapa dos serviços sociais", "direçoes para os serviços sociais" ],
+         "responses": ["Já te mando a localização!"],
+         "context_filter": "mapa_servico_sociais"
+        },
+        {"tag": "sem_resposta",
+         "patterns": [""],
+         "responses": ["Desculpa, não entendi", "Dá-me mais informação, por favor", "Não tenho a certeza se percebi"]
+        }
+
+   ]
+}
