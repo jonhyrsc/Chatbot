@@ -26,14 +26,13 @@ def get_loc(flag, ACCESS_TOKEN, userID, user_local)  :
 
     print('FLAG:', flag)
 
-
-
     if flag == 1:
     #cantina
         destination =  loc_cantina_principal
 
     elif flag == 2:
     #secretaria
+        
         destination =  loc_secretaria
 
     elif flag == 3:

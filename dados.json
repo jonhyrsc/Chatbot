@@ -6,7 +6,6 @@
       "!",
       "abert",
       "abertur",
-      "abertura/fech",
       "abre",
       "abrem",
       "academ",
@@ -30,6 +29,7 @@
       "chav",
       "codess",
       "cois",
+      "comec",
       "contact",
       "daqu",
       "dia",
@@ -58,6 +58,7 @@
       "localizaca",
       "log",
       "lug",
+      "matricul",
       "obrig",
       "oi",
       "ola",
@@ -359,6 +360,13 @@
       ],
       [
         [
+          "matriculas",
+          "?"
+        ],
+        "servi\u00e7os acad\u00e9micos"
+      ],
+      [
+        [
           "Quero",
           "saber",
           "mais",
@@ -380,7 +388,7 @@
       ],
       [
         [
-          "horairio",
+          "horario",
           "dos",
           "sas",
           "da",
@@ -570,12 +578,6 @@
           "biblioteca"
         ],
         "biblioteca"
-      ],
-      [
-        [
-          "jantar"
-        ],
-        "cantina"
       ],
       [
         [
@@ -799,9 +801,10 @@
       ],
       [
         [
-          "almo\u00e7o"
+          "matriculas",
+          "?"
         ],
-        "cantina"
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         [
@@ -864,6 +867,13 @@
           "SAS"
         ],
         "servi\u00e7os sociais"
+      ],
+      [
+        [
+          "matriculas",
+          "?"
+        ],
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         [
@@ -973,6 +983,15 @@
       ],
       [
         [
+          "onde",
+          "posso",
+          "comer",
+          "?"
+        ],
+        "cantina"
+      ],
+      [
+        [
           "Que",
           "horas",
           "est\u00e3o",
@@ -1011,12 +1030,6 @@
           "Guia-me",
           "para",
           "a",
-          "cantina"
-        ],
-        "cantina"
-      ],
-      [
-        [
           "cantina"
         ],
         "cantina"
@@ -1069,6 +1082,13 @@
           "biblioteca"
         ],
         "biblioteca"
+      ],
+      [
+        [
+          "matriculas",
+          "?"
+        ],
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         [
@@ -1147,6 +1167,13 @@
           "?"
         ],
         "servi\u00e7os sociais"
+      ],
+      [
+        [
+          "matriculas",
+          "?"
+        ],
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         [
@@ -1242,6 +1269,13 @@
           "jantar"
         ],
         "cantina"
+      ],
+      [
+        [
+          "matriculas",
+          "?"
+        ],
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         [
@@ -1421,7 +1455,9 @@
         [
           "horas",
           "de",
-          "abertura/fecho",
+          "abertura",
+          "ou",
+          "fecho",
           "da",
           "cantina"
         ],
@@ -1713,6 +1749,18 @@
           "central"
         ],
         "biblioteca"
+      ],
+      [
+        [
+          "horas",
+          "a",
+          "que",
+          "come\u00e7am",
+          "a",
+          "servir",
+          "comida"
+        ],
+        "cantina"
       ],
       [
         [
@@ -2456,6 +2504,10 @@
         "secretaria"
       ],
       [
+        "class:sa",
+        "servi\u00e7os acad\u00e9micos"
+      ],
+      [
         "class:ss",
         "servi\u00e7os sociais"
       ],
@@ -2516,7 +2568,7 @@
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "Bom dia ",
+        "Ol\u00e1!",
         "sauda\u00e7\u00e3o"
       ],
       [
@@ -2538,10 +2590,6 @@
       [
         "class: biblioteca",
         "biblioteca"
-      ],
-      [
-        "class:cantina",
-        "cantina"
       ],
       [
         "class: biblioteca",
@@ -2632,8 +2680,8 @@
         "secretaria"
       ],
       [
-        "class:cantina",
-        "cantina"
+        "class:sa",
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         "class: biblioteca",
@@ -2648,7 +2696,7 @@
         "secretaria"
       ],
       [
-        "Obrigada",
+        "De nada!",
         "agradecimento"
       ],
       [
@@ -2664,6 +2712,10 @@
         "servi\u00e7os sociais"
       ],
       [
+        "class:sa",
+        "servi\u00e7os acad\u00e9micos"
+      ],
+      [
         "class:secretaria",
         "secretaria"
       ],
@@ -2706,6 +2758,10 @@
       [
         "class: biblioteca",
         "biblioteca"
+      ],
+      [
+        "class:cantina",
+        "cantina"
       ],
       [
         "class:ss",
@@ -2724,10 +2780,6 @@
         "cantina"
       ],
       [
-        "class:cantina",
-        "cantina"
-      ],
-      [
         "class:sa",
         "servi\u00e7os acad\u00e9micos"
       ],
@@ -2752,6 +2804,10 @@
         "servi\u00e7os acad\u00e9micos"
       ],
       [
+        "class:sa",
+        "servi\u00e7os acad\u00e9micos"
+      ],
+      [
         "class:cantina",
         "cantina"
       ],
@@ -2774,6 +2830,10 @@
       [
         "class:ss",
         "servi\u00e7os sociais"
+      ],
+      [
+        "class:sa",
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         "class:cantina",
@@ -2814,6 +2874,10 @@
       [
         "class:cantina",
         "cantina"
+      ],
+      [
+        "class:sa",
+        "servi\u00e7os acad\u00e9micos"
       ],
       [
         "class:ss",
@@ -2996,7 +3060,7 @@
         "servi\u00e7os sociais"
       ],
       [
-        "Isso \u00e9 util",
+        "De nada!",
         "agradecimento"
       ],
       [
@@ -3008,6 +3072,10 @@
         "biblioteca"
       ],
       [
+        "class:cantina",
+        "cantina"
+      ],
+      [
         "class:secretaria",
         "secretaria"
       ],
@@ -3060,196 +3128,76 @@
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "cantina"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "cantina"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "cantina"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "cantina"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "cantina"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "cantina"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os acad\u00e9micos"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os sociais"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os sociais"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os sociais"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os sociais"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os sociais"
       ],
       [
-        "valida\u00e7\u00e3o",
+        NaN,
         "servi\u00e7os sociais"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "secretaria"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "secretaria"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "secretaria"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "secretaria"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "secretaria"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "secretaria"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "biblioteca"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "biblioteca"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "biblioteca"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "biblioteca"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "biblioteca"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "biblioteca"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "sauda\u00e7\u00e3o"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "sauda\u00e7\u00e3o"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "sauda\u00e7\u00e3o"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "sauda\u00e7\u00e3o"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "sauda\u00e7\u00e3o"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "sauda\u00e7\u00e3o"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "agradecimento"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "agradecimento"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "agradecimento"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "agradecimento"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "agradecimento"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "agradecimento"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "despedida"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "despedida"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "despedida"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "despedida"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "despedida"
-      ],
-      [
-        "valida\u00e7\u00e3o",
-        "despedida"
       ]
     ]
   },
@@ -3463,6 +3411,13 @@
       ],
       [
         [
+          "comer",
+          "?"
+        ],
+        "ementa"
+      ],
+      [
+        [
           "diz-me",
           "a",
           "ementa",
@@ -3592,6 +3547,13 @@
       ],
       [
         [
+          "comer",
+          "?"
+        ],
+        "ementa"
+      ],
+      [
+        [
           "Por",
           "onde",
           "ir",
@@ -3610,6 +3572,13 @@
           "cantina"
         ],
         "localiza\u00e7ao"
+      ],
+      [
+        [
+          "comer",
+          "?"
+        ],
+        "ementa"
       ],
       [
         [
@@ -3740,6 +3709,13 @@
       ],
       [
         [
+          "comer",
+          "?"
+        ],
+        "ementa"
+      ],
+      [
+        [
           "Onde",
           "\u00e9",
           "a",
@@ -3774,6 +3750,16 @@
           "jantar"
         ],
         "horario"
+      ],
+      [
+        [
+          "o",
+          "que",
+          "\u00e9",
+          "para",
+          "comer"
+        ],
+        "ementa"
       ],
       [
         [
@@ -4102,7 +4088,7 @@
       [
         [
           "Quais",
-          "s\u00e3os",
+          "s\u00e3o",
           "os",
           "hor\u00e1rios",
           "da",
@@ -4283,79 +4269,11 @@
     ],
     "responses": [
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Para almo\u00e7o carrega neste link: http://www.sas.utad.pt/Lists/Ementas/Attachments/3544/Ementa%20n%C2%BA4_alemrio_almo%C3%A7o.pdf , para jantar, neste link: http://www.sas.utad.pt/Lists/Ementas/Attachments/3544/Ementa%20n%C2%BA4_alemrio_almo%C3%A7o.pdf",
-        "ementa"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
@@ -4363,167 +4281,7 @@
         "ementa"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o da cantina",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/Attachments/3542/Ementa%20n%C2%BA4_%20prados.pdf",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o da cantina",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Para almo\u00e7o carrega neste link: http://www.sas.utad.pt/Lists/Ementas/Attachments/3544/Ementa%20n%C2%BA4_alemrio_almo%C3%A7o.pdf , para jantar, neste link: http://www.sas.utad.pt/Lists/Ementas/Attachments/3544/Ementa%20n%C2%BA4_alemrio_almo%C3%A7o.pdf",
-        "ementa"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/Attachments/3542/Ementa%20n%C2%BA4_%20prados.pdf",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
@@ -4543,19 +4301,7 @@
         "ementa"
       ],
       [
-        "Abrem ao 12",
-        "horario"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
@@ -4563,7 +4309,11 @@
         "horario"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
@@ -4575,7 +4325,131 @@
         "ementa"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
@@ -4595,52 +4469,64 @@
         "ementa"
       ],
       [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
+        "localiza\u00e7ao"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
+      ],
+      [
         "Abrem ao 12",
         "horario"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "ementa"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
+        "Abrem ao 12",
+        "horario"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
       ],
       [
         "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "ementa"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
+      ],
+      [
+        "Abrem ao 12",
+        "horario"
       ],
       [
         "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "ementa"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
         "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "ementa"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da cantina. ",
         "localiza\u00e7ao"
       ],
       [
-        "Vou-te mandar a localiza\u00e7\u00e3o das cantinas",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
-        "ementa"
+        "Abrem ao 12",
+        "horario"
       ]
     ]
   },
@@ -4679,6 +4565,7 @@
       "ir",
       "limit",
       "localiz",
+      "matricul",
       "onde",
       "pag",
       "propin",
@@ -5118,6 +5005,13 @@
       ],
       [
         [
+          "matriculas",
+          "?"
+        ],
+        "localiza\u00e7ao"
+      ],
+      [
+        [
           "Hor\u00e1rio",
           "dos",
           "servi\u00e7os",
@@ -5295,6 +5189,13 @@
       ],
       [
         [
+          "matriculas",
+          "?"
+        ],
+        "localiza\u00e7ao"
+      ],
+      [
+        [
           "sabes",
           "informa\u00e7\u00f5es",
           "uteis",
@@ -5315,6 +5216,13 @@
           "utad"
         ],
         "info"
+      ],
+      [
+        [
+          "matriculas",
+          "?"
+        ],
+        "localiza\u00e7ao"
       ],
       [
         [
@@ -5429,6 +5337,13 @@
           "acad\u00e9micos"
         ],
         "info"
+      ],
+      [
+        [
+          "matriculas",
+          "?"
+        ],
+        "localiza\u00e7ao"
       ],
       [
         [
@@ -5821,7 +5736,7 @@
         "horario"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -5841,7 +5756,7 @@
         "horario"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -5849,23 +5764,11 @@
         "horario"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -5873,7 +5776,19 @@
         "horario"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -5881,7 +5796,7 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -5893,7 +5808,7 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -5901,16 +5816,12 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
       ],
       [
         "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
@@ -5923,102 +5834,6 @@
       [
         "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
         "horario"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
       ],
       [
         "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
@@ -6037,42 +5852,10 @@
         "info"
       ],
       [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
         "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
         "horario"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
         "https://www.utad.pt/sa/inicio/questoes-frequentes/",
         "info"
       ],
@@ -6081,20 +5864,8 @@
         "info"
       ],
       [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
       ],
       [
         "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
@@ -6109,15 +5880,11 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -6133,15 +5900,7 @@
         "info"
       ],
       [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -6149,27 +5908,7 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "localiza\u00e7ao"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -6181,19 +5920,23 @@
         "info"
       ],
       [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
       ],
       [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
       ],
       [
-        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
-        "horario"
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -6201,7 +5944,71 @@
         "horario"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "localiza\u00e7ao"
       ],
       [
@@ -6211,6 +6018,10 @@
       [
         "O hor\u00e1rio de atendimento \u00e9 das 10h \u00e0s 16:30h, mas para mais informa\u00e7\u00f5es, v\u00ea este link https://www.utad.pt/sa/inicio/horario-de-atendimento/",
         "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os acad\u00e9micos. Aqui est\u00e1 o endere\u00e7o: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "localiza\u00e7ao"
       ]
     ]
   },
@@ -6239,9 +6050,12 @@
       "horairi",
       "horari",
       "info",
+      "informaca",
       "informaco",
       "ir",
+      "local",
       "localiz",
+      "localizaca",
       "onde",
       "quer",
       "sab",
@@ -6516,6 +6330,20 @@
       ],
       [
         [
+          "local",
+          "sas"
+        ],
+        "localiza\u00e7ao"
+      ],
+      [
+        [
+          "localiza\u00e7\u00e3o",
+          "sas"
+        ],
+        "localiza\u00e7ao"
+      ],
+      [
+        [
           "Ir",
           "para",
           "os",
@@ -6703,6 +6531,14 @@
       ],
       [
         [
+          "informa\u00e7\u00e3o",
+          "servi\u00e7os",
+          "sociais"
+        ],
+        "info"
+      ],
+      [
+        [
           "Guia-me",
           "para",
           "os",
@@ -6874,7 +6710,7 @@
           "servi\u00e7os",
           "sociais"
         ],
-        "horario "
+        "horario"
       ],
       [
         [
@@ -7274,7 +7110,7 @@
     ],
     "responses": [
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
@@ -7290,19 +7126,19 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7318,19 +7154,19 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7338,23 +7174,23 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario "
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
@@ -7370,35 +7206,27 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7406,11 +7234,15 @@
         "info"
       ],
       [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "localiza\u00e7ao"
+      ],
+      [
         "http://www.sas.utad.pt/default.aspx",
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7422,51 +7254,7 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7482,47 +7270,15 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario "
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7530,27 +7286,11 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
@@ -7558,39 +7298,23 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
-        "horario"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
@@ -7598,39 +7322,43 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
+        "http://www.sas.utad.pt/default.aspx",
+        "info"
       ],
       [
         "http://www.sas.utad.pt/default.aspx",
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "localiza\u00e7ao"
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
+        "horario"
       ],
       [
         "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
         "horario"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
+        "horario"
+      ],
+      [
+        "Das 09h15 \u00e0s 16h15 de Segunda a Sexta-feira.",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o dos servi\u00e7os sociais. Aqui est\u00e1 o link do endere\u00e7o: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "localiza\u00e7ao"
       ]
     ]
@@ -8317,7 +8045,7 @@
           "j\u00e1",
           "!"
         ],
-        "localiza\u00e7\u00e3o"
+        "localiza\u00e7ao"
       ],
       [
         [
@@ -8642,8 +8370,7 @@
     "classes": [
       "horario",
       "info",
-      "localiza\u00e7ao",
-      "localiza\u00e7\u00e3o"
+      "localiza\u00e7ao"
     ],
     "responses": [
       [
@@ -8655,43 +8382,43 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
@@ -8703,7 +8430,7 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
@@ -8711,55 +8438,35 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
@@ -8767,67 +8474,19 @@
         "horario"
       ],
       [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
@@ -8839,11 +8498,11 @@
         "horario"
       ],
       [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
+        "localiza\u00e7ao"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
@@ -8851,39 +8510,31 @@
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
@@ -8891,11 +8542,7 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
@@ -8903,43 +8550,11 @@
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7\u00e3o"
-      ],
-      [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
@@ -8955,15 +8570,23 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
@@ -8971,11 +8594,7 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
       ],
       [
@@ -8983,36 +8602,24 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
+      ],
+      [
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
+        "info"
+      ],
+      [
+        "Depois de partilhares a tua localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da secretaria.",
+        "localiza\u00e7ao"
       ],
       [
         "A secretaria est\u00e1 aberta das 9h \u00e0s 17h",
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Neste momento n\u00e3o consigo fornecer informa\u00e7\u00f5es da secretaria, mas no futuro sim!",
         "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
       ]
     ]
   },
@@ -9067,7 +8674,7 @@
           "Localizar",
           "a",
           "biblioteca",
-          "centra",
+          "central",
           "da",
           "utad"
         ],
@@ -10032,7 +9639,7 @@
     ],
     "responses": [
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
@@ -10044,7 +9651,7 @@
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
@@ -10056,7 +9663,7 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
@@ -10064,7 +9671,7 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
@@ -10072,47 +9679,27 @@
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
@@ -10120,127 +9707,19 @@
         "horario"
       ],
       [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
@@ -10256,44 +9735,36 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
         "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
+        "horario"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
+      ],
+      [
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
       ],
       [
         "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
@@ -10304,23 +9775,31 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
+      ],
+      [
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
-        "info"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
@@ -10328,15 +9807,47 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
+        "horario"
+      ],
+      [
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
+      ],
+      [
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
+        "localiza\u00e7ao"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "localiza\u00e7ao"
       ],
       [
@@ -10348,56 +9859,32 @@
         "horario"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
+        "horario"
+      ],
+      [
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
+        "info"
       ],
       [
         "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
         "horario"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
       ],
       [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
+        "Depois de partilhares a localiza\u00e7\u00e3o, eu envio-te a localiza\u00e7\u00e3o da biblioteca.",
         "localiza\u00e7ao"
       ],
       [
-        "ok, j\u00e1 te dou informa\u00e7\u00f5es",
+        "Ok, eu neste momento n\u00e3o te consigo fornecer informa\u00e7\u00f5es da biblioteca, mas no futuro irei conseguir!",
         "info"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "A biblioteca est\u00e1 aberta das 9h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
-      ],
-      [
-        "J\u00e1 te envio a localiza\u00e7\u00e3o",
-        "localiza\u00e7ao"
       ]
     ]
   }

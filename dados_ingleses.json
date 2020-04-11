@@ -13,17 +13,25 @@
       "addit",
       "alem",
       "alreadi",
+      "appreci",
+      "beyond",
       "build",
+      "bye",
+      "cafeteria",
       "canteen",
       "central",
+      "chatbot",
       "classroom",
       "close",
       "codessai",
       "day",
       "deal",
+      "deliv",
       "dinner",
       "eat",
+      "enrol",
       "fee",
+      "food",
       "function",
       "get",
       "go",
@@ -31,13 +39,14 @@
       "good",
       "goodby",
       "guid",
+      "hello",
       "hi",
       "hour",
       "info",
       "inform",
-      "informationn",
       "key",
       "know",
+      "later",
       "librarari",
       "librari",
       "locat",
@@ -47,20 +56,22 @@
       "need",
       "offic",
       "open",
-      "opening/clos",
       "oper",
+      "paper",
       "path",
+      "pay",
       "prado",
       "regard",
       "relat",
       "rio",
+      "river",
       "role",
       "rout",
       "sa",
       "sas",
       "schedul",
-      "scheedul",
       "secretari",
+      "see",
       "serv",
       "servic",
       "social",
@@ -73,17 +84,20 @@
       "today",
       "tuition",
       "use",
+      "user",
       "utad",
       "walk",
       "want",
       "way",
+      "work",
       "xau"
     ],
     "documents": [
       [
         [
           "social",
-          "services"
+          "services",
+          "information"
         ],
         "social services"
       ],
@@ -282,7 +296,7 @@
       ],
       [
         [
-          "Informationns",
+          "Informations",
           "about",
           "academic",
           "services"
@@ -365,7 +379,7 @@
           "UTAD",
           "'s",
           "SAS",
-          "scheedule"
+          "schedule"
         ],
         "social services"
       ],
@@ -505,6 +519,15 @@
       ],
       [
         [
+          "can",
+          "I",
+          "eat",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
           "I",
           "want",
           "to",
@@ -560,7 +583,18 @@
       ],
       [
         [
+          "have",
           "dinner"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "where",
+          "can",
+          "i",
+          "eat",
+          "?"
         ],
         "canteen"
       ],
@@ -595,7 +629,8 @@
           "Go",
           "to",
           "the",
-          "sas"
+          "social",
+          "services"
         ],
         "social services"
       ],
@@ -669,7 +704,8 @@
       ],
       [
         [
-          "Hi"
+          "hello",
+          "chatbot"
         ],
         "salutation"
       ],
@@ -706,6 +742,15 @@
           "classroom"
         ],
         "secretary"
+      ],
+      [
+        [
+          "where",
+          "to",
+          "eat",
+          "?"
+        ],
+        "canteen"
       ],
       [
         [
@@ -763,7 +808,11 @@
       ],
       [
         [
-          "sas"
+          "where",
+          "are",
+          "the",
+          "social",
+          "services"
         ],
         "social services"
       ],
@@ -903,6 +952,20 @@
       ],
       [
         [
+          "enrollment",
+          "?"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "eat",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
           "sa"
         ],
         "academic services"
@@ -915,6 +978,13 @@
           "canteen",
           "of",
           "codessais"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "eat",
+          "?"
         ],
         "canteen"
       ],
@@ -940,6 +1010,13 @@
           "?"
         ],
         "library"
+      ],
+      [
+        [
+          "enrollment",
+          "?"
+        ],
+        "academic services"
       ],
       [
         [
@@ -1033,6 +1110,13 @@
           "the",
           "academic",
           "services"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "enrollment",
+          "?"
         ],
         "academic services"
       ],
@@ -1187,8 +1271,9 @@
       ],
       [
         [
-          "SA",
-          "scheduleS"
+          "Social",
+          "services",
+          "schedule"
         ],
         "social services"
       ],
@@ -1223,6 +1308,13 @@
       ],
       [
         [
+          "enrollment",
+          "?"
+        ],
+        "academic services"
+      ],
+      [
+        [
           "What",
           "is",
           "the",
@@ -1238,6 +1330,12 @@
         [
           "dinner",
           "hours"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "food"
         ],
         "canteen"
       ],
@@ -1292,6 +1390,13 @@
       ],
       [
         [
+          "hello",
+          "chatbot"
+        ],
+        "salutation"
+      ],
+      [
+        [
           "UTAD",
           "SA",
           "schedule"
@@ -1314,6 +1419,12 @@
           "Xau"
         ],
         "farewell"
+      ],
+      [
+        [
+          "Appreciated"
+        ],
+        "thanks"
       ],
       [
         [
@@ -1423,11 +1534,8 @@
       ],
       [
         [
-          "opening/closing",
-          "hours",
-          "of",
-          "the",
-          "canteen"
+          "thank",
+          "you"
         ],
         "canteen"
       ],
@@ -1441,7 +1549,8 @@
         [
           "Go",
           "to",
-          "secretary"
+          "secretary",
+          "office"
         ],
         "secretary"
       ],
@@ -1453,6 +1562,14 @@
           "services"
         ],
         "social services"
+      ],
+      [
+        [
+          "Bye",
+          ",",
+          "Chatbot"
+        ],
+        "farewell"
       ],
       [
         [
@@ -1472,7 +1589,8 @@
           "to",
           "go",
           "to",
-          "secretary"
+          "secretary",
+          "office"
         ],
         "secretary"
       ],
@@ -1695,9 +1813,8 @@
       ],
       [
         [
-          "This",
-          "is",
-          "useful"
+          "Thanks",
+          "!"
         ],
         "thanks"
       ],
@@ -1862,6 +1979,394 @@
           "sa"
         ],
         "academic services"
+      ],
+      [
+        [
+          "Where",
+          "is",
+          "the",
+          "cafeteria",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "where",
+          "is",
+          "the",
+          "cafeteria",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "where",
+          "to",
+          "eat",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "Menu",
+          "in",
+          "the",
+          "canteen",
+          "?",
+          "What",
+          "it",
+          "is",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "where",
+          "can",
+          "i",
+          "eat",
+          "?"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "what",
+          "'s",
+          "the",
+          "menu"
+        ],
+        "canteen"
+      ],
+      [
+        [
+          "where",
+          "are",
+          "located",
+          "the",
+          "academic",
+          "services"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "where",
+          "to",
+          "pay",
+          "the",
+          "tuition",
+          "fees"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "academic",
+          "services",
+          "utad"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "what",
+          "are",
+          "the",
+          "available",
+          "information",
+          "about",
+          "the",
+          "sa"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "hours",
+          "that",
+          "the",
+          "academic",
+          "services",
+          "open"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "hour",
+          "at",
+          "wich",
+          "academic",
+          "services",
+          "are",
+          "open"
+        ],
+        "academic services"
+      ],
+      [
+        [
+          "schedule",
+          "of",
+          "social",
+          "services"
+        ],
+        "social services"
+      ],
+      [
+        [
+          "stay",
+          "and",
+          "scholarship"
+        ],
+        "social services"
+      ],
+      [
+        [
+          "social",
+          "services",
+          "UTAD"
+        ],
+        "social services"
+      ],
+      [
+        [
+          "location",
+          "of",
+          "the",
+          "social",
+          "services"
+        ],
+        "social services"
+      ],
+      [
+        [
+          "hours",
+          "of",
+          "close",
+          "social",
+          "services",
+          "?"
+        ],
+        "social services"
+      ],
+      [
+        [
+          "where",
+          "are",
+          "the",
+          "ss",
+          "?"
+        ],
+        "social services"
+      ],
+      [
+        [
+          "doest",
+          "the",
+          "secretary",
+          "office",
+          "close",
+          "lunch",
+          "?"
+        ],
+        "secretary"
+      ],
+      [
+        [
+          "schedule",
+          "secretary"
+        ],
+        "secretary"
+      ],
+      [
+        [
+          "location",
+          "UTAD",
+          "secretary"
+        ],
+        "secretary"
+      ],
+      [
+        [
+          "send",
+          "me",
+          "the",
+          "location",
+          "of",
+          "the",
+          "secretary"
+        ],
+        "secretary"
+      ],
+      [
+        [
+          "can",
+          "i",
+          "pay",
+          "my",
+          "tuitions",
+          "on",
+          "the",
+          "secretary",
+          "?"
+        ],
+        "secretary"
+      ],
+      [
+        [
+          "where",
+          "is",
+          "the",
+          "secretary",
+          "?"
+        ],
+        "secretary"
+      ],
+      [
+        [
+          "does",
+          "the",
+          "library",
+          "open",
+          "on",
+          "weekeng",
+          "?"
+        ],
+        "library"
+      ],
+      [
+        [
+          "study",
+          "utad"
+        ],
+        "library"
+      ],
+      [
+        [
+          "do",
+          "you",
+          "have",
+          "information",
+          "about",
+          "library",
+          "?"
+        ],
+        "library"
+      ],
+      [
+        [
+          "until",
+          "each",
+          "hour",
+          "does",
+          "the",
+          "library",
+          "is",
+          "open",
+          "?"
+        ],
+        "library"
+      ],
+      [
+        [
+          "how",
+          "can",
+          "i",
+          "go",
+          "to",
+          "the",
+          "library"
+        ],
+        "library"
+      ],
+      [
+        [
+          "send",
+          "me",
+          "directions",
+          "to",
+          "the",
+          "library"
+        ],
+        "library"
+      ],
+      [
+        [
+          "hi"
+        ],
+        "salutation"
+      ],
+      [
+        [
+          "hello",
+          "chatbot"
+        ],
+        "salutation"
+      ],
+      [
+        [
+          "good",
+          "morning",
+          ",",
+          "chatbot"
+        ],
+        "salutation"
+      ],
+      [
+        [
+          "nice",
+          ",",
+          "thank",
+          "you",
+          "!"
+        ],
+        "thanks"
+      ],
+      [
+        [
+          "you",
+          "saved",
+          "me",
+          ",",
+          "thank",
+          "you",
+          "!"
+        ],
+        "thanks"
+      ],
+      [
+        [
+          "Thank",
+          "you"
+        ],
+        "thanks"
+      ],
+      [
+        [
+          "until",
+          "next",
+          "time"
+        ],
+        "farewell"
+      ],
+      [
+        [
+          "xau"
+        ],
+        "farewell"
+      ],
+      [
+        [
+          "xau",
+          ",",
+          "chatbot"
+        ],
+        "farewell"
       ]
     ],
     "classes": [
@@ -2040,8 +2545,12 @@
         "academic services"
       ],
       [
-        "Boa tarde",
+        "Hello!",
         "salutation"
+      ],
+      [
+        "class: canteen",
+        "canteen"
       ],
       [
         "class:sa",
@@ -2065,6 +2574,10 @@
       ],
       [
         "class:canteen",
+        "canteen"
+      ],
+      [
+        "class: canteen",
         "canteen"
       ],
       [
@@ -2108,7 +2621,7 @@
         "library"
       ],
       [
-        "Ol\u00e1!",
+        "Hi!",
         "salutation"
       ],
       [
@@ -2124,6 +2637,10 @@
         "secretary"
       ],
       [
+        "class: canteen",
+        "canteen"
+      ],
+      [
         "class:secretary",
         "secretary"
       ],
@@ -2172,7 +2689,7 @@
         "secretary"
       ],
       [
-        "thanks",
+        "Thanks",
         "thanks"
       ],
       [
@@ -2208,7 +2725,19 @@
         "academic services"
       ],
       [
+        "class: canteen",
+        "canteen"
+      ],
+      [
+        "class:sa",
+        "academic services"
+      ],
+      [
         "class:canteen",
+        "canteen"
+      ],
+      [
+        "class: canteen",
         "canteen"
       ],
       [
@@ -2218,6 +2747,10 @@
       [
         "class: library",
         "library"
+      ],
+      [
+        "class:sa",
+        "academic services"
       ],
       [
         "class: library",
@@ -2250,6 +2783,10 @@
       [
         "class:canteen",
         "canteen"
+      ],
+      [
+        "class:sa",
+        "academic services"
       ],
       [
         "class:sa",
@@ -2336,6 +2873,14 @@
         "academic services"
       ],
       [
+        "class:sa",
+        "academic services"
+      ],
+      [
+        "class:canteen",
+        "canteen"
+      ],
+      [
         "class:canteen",
         "canteen"
       ],
@@ -2360,6 +2905,10 @@
         "secretary"
       ],
       [
+        "Hi!",
+        "salutation"
+      ],
+      [
         "class:sa",
         "academic services"
       ],
@@ -2370,6 +2919,10 @@
       [
         "Goodbye!",
         "farewell"
+      ],
+      [
+        "Your welcome!",
+        "thanks"
       ],
       [
         "class:canteen",
@@ -2426,6 +2979,10 @@
       [
         "class:ss",
         "social services"
+      ],
+      [
+        "Bye",
+        "farewell"
       ],
       [
         "class:sa",
@@ -2578,6 +3135,42 @@
       [
         "class:sa",
         "academic services"
+      ],
+      [
+        NaN,
+        "canteen"
+      ],
+      [
+        NaN,
+        "canteen"
+      ],
+      [
+        NaN,
+        "canteen"
+      ],
+      [
+        NaN,
+        "canteen"
+      ],
+      [
+        NaN,
+        "canteen"
+      ],
+      [
+        NaN,
+        "canteen"
+      ],
+      [
+        NaN,
+        "academic services"
+      ],
+      [
+        NaN,
+        "academic services"
+      ],
+      [
+        NaN,
+        "academic services"
       ]
     ]
   },
@@ -2597,6 +3190,7 @@
       "dinner",
       "direct",
       "eat",
+      "food",
       "get",
       "go",
       "gon",
@@ -2678,10 +3272,23 @@
       ],
       [
         [
+          "food"
+        ],
+        "menu"
+      ],
+      [
+        [
           "the",
           "menu",
           "for",
           "today"
+        ],
+        "menu"
+      ],
+      [
+        [
+          "eat",
+          "?"
         ],
         "menu"
       ],
@@ -2762,6 +3369,13 @@
           "the",
           "codessais",
           "canteen"
+        ],
+        "menu"
+      ],
+      [
+        [
+          "eat",
+          "?"
         ],
         "menu"
       ],
@@ -2848,6 +3462,13 @@
       ],
       [
         [
+          "eat",
+          "?"
+        ],
+        "menu"
+      ],
+      [
+        [
           "directions",
           "to",
           "the",
@@ -2911,6 +3532,13 @@
           "canteen"
         ],
         "schedule"
+      ],
+      [
+        [
+          "eat",
+          "?"
+        ],
+        "menu"
       ],
       [
         [
@@ -3644,27 +4272,35 @@
     ],
     "responses": [
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "For lunch click in this link: http://www.sas.utad.pt/Lists/menus/Attachments/3544/menu%20n%C2%BA4_alemrio_almo%C3%A7o.pdf , for dinner, in this link: http://www.sas.utad.pt/Lists/menus/Attachments/3544/menu%20n%C2%BA4_alemrio_almo%C3%A7o.pdf",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
@@ -3672,63 +4308,11 @@
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
@@ -3740,27 +4324,7 @@
         "schedule"
       ],
       [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
@@ -3768,27 +4332,47 @@
         "schedule"
       ],
       [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
@@ -3804,15 +4388,79 @@
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "Open at 12",
+        "schedule"
+      ],
+      [
+        "Open at 12",
+        "schedule"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "Open at 12",
+        "schedule"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "Open at 12",
+        "schedule"
+      ],
+      [
+        "Open at 12",
+        "schedule"
+      ],
+      [
+        "Open at 12",
+        "schedule"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
+        "menu"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
+      ],
+      [
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
@@ -3824,27 +4472,19 @@
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/Attachments/3542/menu%20n%C2%BA4_%20prados.pdf",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "For lunch click in this link: http://www.sas.utad.pt/Lists/menus/Attachments/3544/menu%20n%C2%BA4_alemrio_almo%C3%A7o.pdf , for dinner, in this link: http://www.sas.utad.pt/Lists/menus/Attachments/3544/menu%20n%C2%BA4_alemrio_almo%C3%A7o.pdf",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
@@ -3852,95 +4492,7 @@
         "schedule"
       ],
       [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/Attachments/3542/menu%20n%C2%BA4_%20prados.pdf",
-        "menu"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "Open at 12",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
@@ -3952,56 +4504,32 @@
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
+      ],
+      [
+        "After that, I'm going to send you the location of the canteen",
+        "location"
       ],
       [
         "Open at 12",
         "schedule"
       ],
       [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
+        "http://www.sas.utad.pt/Lists/Ementas/AllItems.aspx",
         "menu"
       ],
       [
-        "I'm going to send you the location of the canteen",
+        "After that, I'm going to send you the location of the canteen",
         "location"
       ],
       [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "I'm going to send you the location of the canteen",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Lists/menus/AllItems.aspx",
-        "menu"
+        "Open at 12",
+        "schedule"
       ]
     ]
   },
@@ -4019,6 +4547,7 @@
       "contact",
       "deal",
       "direct",
+      "enrol",
       "fee",
       "function",
       "go",
@@ -4095,6 +4624,13 @@
           "services"
         ],
         "schedule"
+      ],
+      [
+        [
+          "enrollment",
+          "?"
+        ],
+        "location"
       ],
       [
         [
@@ -4191,6 +4727,13 @@
       ],
       [
         [
+          "enrollment",
+          "?"
+        ],
+        "location"
+      ],
+      [
+        [
           "Go",
           "to",
           "the",
@@ -4223,6 +4766,13 @@
           "stuff"
         ],
         "info"
+      ],
+      [
+        [
+          "enrollment",
+          "?"
+        ],
+        "location"
       ],
       [
         [
@@ -4315,6 +4865,13 @@
           "services"
         ],
         "schedule"
+      ],
+      [
+        [
+          "enrollment",
+          "?"
+        ],
+        "location"
       ],
       [
         [
@@ -5174,7 +5731,7 @@
         "schedule"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5182,143 +5739,7 @@
         "schedule"
       ],
       [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5330,11 +5751,47 @@
         "info"
       ],
       [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5342,7 +5799,11 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5354,7 +5815,7 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5362,16 +5823,28 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
+      ],
+      [
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
       ],
       [
         "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
@@ -5390,42 +5863,10 @@
         "info"
       ],
       [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
         "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
         "schedule"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
         "https://www.utad.pt/sa/inicio/questoes-frequentes/",
         "info"
       ],
@@ -5434,20 +5875,8 @@
         "info"
       ],
       [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
       ],
       [
         "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
@@ -5462,15 +5891,59 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
+        "schedule"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5490,40 +5963,12 @@
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
         "https://www.utad.pt/sa/inicio/questoes-frequentes/",
         "info"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
         "https://www.utad.pt/sa/inicio/questoes-frequentes/",
         "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
-      ],
-      [
-        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
-        "info"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
-        "location"
       ],
       [
         "https://www.utad.pt/sa/inicio/questoes-frequentes/",
@@ -5534,19 +5979,11 @@
         "info"
       ],
       [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
       ],
       [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
-        "schedule"
-      ],
-      [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
@@ -5554,16 +5991,32 @@
         "schedule"
       ],
       [
-        "Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
         "location"
       ],
       [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
+        "https://www.utad.pt/sa/inicio/questoes-frequentes/",
+        "info"
+      ],
+      [
         "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
         "schedule"
       ],
       [
         "The opening hours are from 10am to 4:30pm, but for more information, see this link https://www.utad.pt/sa/inicio/schedule-de-atendimento/",
         "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the academic services. Here is the adress: Quinta de Prados \u2013 Folhadela, 5000-801 Vila Real",
+        "location"
       ]
     ]
   },
@@ -5795,7 +6248,7 @@
           "social",
           "services"
         ],
-        "schedule "
+        "schedule"
       ],
       [
         [
@@ -6211,7 +6664,7 @@
           "social",
           "services"
         ],
-        "schedule "
+        "schedule"
       ],
       [
         [
@@ -6588,12 +7041,11 @@
     "classes": [
       "info",
       "location",
-      "schedule",
-      "schedule "
+      "schedule"
     ],
     "responses": [
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
@@ -6609,23 +7061,23 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
@@ -6637,71 +7089,19 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule "
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
@@ -6709,7 +7109,23 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
@@ -6717,7 +7133,27 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "http://www.sas.utad.pt/default.aspx",
+        "info"
+      ],
+      [
+        "http://www.sas.utad.pt/default.aspx",
+        "info"
+      ],
+      [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
@@ -6725,11 +7161,15 @@
         "info"
       ],
       [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
         "http://www.sas.utad.pt/default.aspx",
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
@@ -6741,51 +7181,7 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
@@ -6801,39 +7197,23 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule "
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
@@ -6841,7 +7221,23 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "location"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "schedule"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "schedule"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "schedule"
+      ],
+      [
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
@@ -6853,103 +7249,39 @@
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
         "http://www.sas.utad.pt/default.aspx",
         "info"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
+        "schedule"
+      ],
+      [
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
+        "The social services are open from 09h15 until 16h15, Monday through Friday. http://www.sas.utad.pt/Paginas/horarios.aspx",
         "schedule"
       ],
       [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/default.aspx",
-        "info"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
-        "location"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/schedules.aspx",
-        "schedule"
-      ],
-      [
-        "http://www.sas.utad.pt/Paginas/moradas.aspx",
+        "After that, I'm going to send you the location of the social services. Link to the adress: http://www.sas.utad.pt/Paginas/moradas.aspx",
         "location"
       ]
     ]
@@ -7001,7 +7333,7 @@
           "office",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7011,7 +7343,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7029,7 +7361,7 @@
           "the",
           "user"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7049,7 +7381,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7058,7 +7390,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7107,7 +7439,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7117,7 +7449,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7129,7 +7461,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7139,7 +7471,7 @@
           "closing",
           "times"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7166,7 +7498,7 @@
           "'s",
           "..."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7216,7 +7548,7 @@
           "to",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7235,7 +7567,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7246,7 +7578,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7265,7 +7597,7 @@
           "'s",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7289,7 +7621,7 @@
           "hours",
           "..."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7298,7 +7630,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7325,7 +7657,7 @@
           "'s",
           "..."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7333,7 +7665,7 @@
           "'s",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7341,7 +7673,7 @@
           "to",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7351,7 +7683,7 @@
           "secretary",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7359,7 +7691,7 @@
           "'s",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7372,7 +7704,7 @@
           "hours",
           "..."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7384,7 +7716,7 @@
           "to",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7403,14 +7735,14 @@
           "to",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
           "go",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7433,7 +7765,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7445,7 +7777,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7454,7 +7786,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7462,7 +7794,7 @@
           "'s",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7471,7 +7803,7 @@
           "the",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7486,7 +7818,7 @@
           "operating",
           "hours"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7497,7 +7829,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7505,7 +7837,7 @@
           "operating",
           "hours"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7515,7 +7847,7 @@
           "secretary",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7523,14 +7855,14 @@
           "'s",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
           "go",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7563,7 +7895,7 @@
           "'s",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7586,7 +7918,7 @@
           "closing",
           "times"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7617,7 +7949,7 @@
           "of",
           "UTAD"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7627,7 +7959,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7649,14 +7981,14 @@
           "office",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
           "Secretary",
           "schedule"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7668,7 +8000,7 @@
           "now",
           "!"
         ],
-        "localiza\u00e7\u00e3o"
+        "location"
       ],
       [
         [
@@ -7683,14 +8015,14 @@
           "engineering",
           "building"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
           "Maps",
           "secretary"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7717,7 +8049,7 @@
           "of",
           "ECT"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7735,7 +8067,7 @@
           "school",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7750,7 +8082,7 @@
           "please",
           "."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7773,7 +8105,7 @@
           "secretary",
           "opens"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7799,7 +8131,7 @@
           "lunchtime",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7810,7 +8142,7 @@
           "schedule",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7822,7 +8154,7 @@
           "closes",
           "..."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7873,7 +8205,7 @@
           "lunch",
           "..."
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7910,7 +8242,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7935,7 +8267,7 @@
           "open",
           "?"
         ],
-        "horario"
+        "schedule"
       ],
       [
         [
@@ -7945,7 +8277,7 @@
           "secretary",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7964,7 +8296,7 @@
           "location",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -7978,7 +8310,7 @@
           ",",
           "please"
         ],
-        "localiza\u00e7ao"
+        "location"
       ],
       [
         [
@@ -8003,383 +8335,262 @@
           "secretary",
           "?"
         ],
-        "localiza\u00e7ao"
+        "location"
       ]
     ],
     "classes": [
-      "horario",
       "info",
-      "localiza\u00e7ao",
-      "localiza\u00e7\u00e3o"
+      "location",
+      "schedule"
     ],
     "responses": [
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "localiza\u00e7ao"
+        "After that, I'll sendo you the location of the secretary office",
+        "location"
       ],
       [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
+        "The secretary office is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the secretary office but I will in the future!",
         "info"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7\u00e3o"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "I'll send you the location",
-        "horario"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The secretary's open from 9:00 a.m. to 5:00 p.m.h \u00e0s 17h",
-        "horario"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "localiza\u00e7ao"
       ]
     ]
   },
@@ -9409,7 +9620,7 @@
     ],
     "responses": [
       [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
@@ -9421,7 +9632,7 @@
         "schedule"
       ],
       [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
@@ -9433,7 +9644,7 @@
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
@@ -9441,7 +9652,7 @@
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
@@ -9449,47 +9660,27 @@
         "schedule"
       ],
       [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
@@ -9497,127 +9688,19 @@
         "schedule"
       ],
       [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "Okay, I'll tell you some information",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
@@ -9633,44 +9716,36 @@
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
         "The library is open from 9:00 a.m. to 5:00 p.m.",
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
+        "The library is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
+      ],
+      [
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
       ],
       [
         "The library is open from 9:00 a.m. to 5:00 p.m.",
@@ -9681,23 +9756,31 @@
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
+      ],
+      [
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
-        "info"
-      ],
-      [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
@@ -9705,15 +9788,47 @@
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "After that, I'll send you the location of the library",
+        "location"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "Okay, I'll tell you some information",
+        "After that, I'll send you the location of the library",
+        "location"
+      ],
+      [
+        "The library is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
+      ],
+      [
+        "After that, I'll send you the location of the library",
+        "location"
+      ],
+      [
+        "After that, I'll send you the location of the library",
+        "location"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
+      ],
+      [
+        "After that, I'll send you the location of the library",
+        "location"
+      ],
+      [
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
@@ -9725,56 +9840,32 @@
         "schedule"
       ],
       [
-        "Okay, I'll tell you some information",
+        "The library is open from 9:00 a.m. to 5:00 p.m.",
+        "schedule"
+      ],
+      [
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
-        "location"
+        "Okay, now I can't provide you information about the library but I will in the future!",
+        "info"
       ],
       [
         "The library is open from 9:00 a.m. to 5:00 p.m.",
         "schedule"
       ],
       [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
       ],
       [
-        "I'll send you the location",
+        "After that, I'll send you the location of the library",
         "location"
       ],
       [
-        "Okay, I'll tell you some information",
+        "Okay, now I can't provide you information about the library but I will in the future!",
         "info"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "The library is open from 9:00 a.m. to 5:00 p.m.",
-        "schedule"
-      ],
-      [
-        "I'll send you the location",
-        "location"
-      ],
-      [
-        "I'll send you the location",
-        "location"
       ]
     ]
   }
